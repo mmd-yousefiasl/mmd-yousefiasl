@@ -23,34 +23,51 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently focused on **ASP.NET Core** backend engineering, API design, and database performance
-- 🏗️ Passionate about **Clean Architecture**, **SOLID principles**, and writing maintainable, testable C# code
-- 🌱 Continuously leveling up in distributed systems, caching strategies, and containerized deployments
-- 💬 Ask me about **.NET, C#, Entity Framework Core, SQL, or REST API architecture**
+- 🔭 Currently building **Trendicator** — a Clean Architecture–based ASP.NET Core backend with layered separation (`Domain`, `Application`, `Data`, `IOC`, `Web`) and PostgreSQL persistence
+- 🏗️ Hands-on with **DTO patterns**, **dependency injection**, and isolating business logic from infrastructure
+- 🌱 Working with **.NET 10**, **Entity Framework Core**, and third-party API integration (TradingView)
+- 💬 Ask me about **Clean Architecture in .NET, EF Core with PostgreSQL, DTO design, or REST API structuring**
 
 ---
 
 ### 🛠 Tech Stack & Tools
 
+**Core Backend**
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/.NET%2010-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 10" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
   <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="EF Core" />
 </p>
 
+**Data & Architecture**
 <p>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-2E7D32?style=for-the-badge" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/DTO%20Pattern-455A64?style=for-the-badge" alt="DTO Pattern" />
 </p>
 
+**DevOps & Tooling**
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
 </p>
+
+---
+
+### 🧩 Featured Project: Trendicator
+
+> A trader-tools eCommerce backend built with ASP.NET Core on .NET 10, following Clean Architecture and using PostgreSQL.
+
+- **Layered solution**: `Domain` · `Application` · `Data` · `IOC` · `Web`
+- **Patterns in practice**: DTOs for data contracts, DI for service composition, separation of business rules from persistence
+- **External integration**: TradingView product flows
+- **Database**: PostgreSQL (migrated from the initial SQL Server setup)
+
+[Explore the repository →](https://github.com/mmd-yousefiasl/Trendicator)
 
 ---
 
@@ -64,5 +81,5 @@
 ---
 
 <div align="center">
-  <sub>Open to backend engineering opportunities, collaborations, and interesting .NET projects — feel free to reach out via <a href="mailto:mmdyousefi95@gmail.com">email</a> or <a href="https://t.me/mmd_u_a">Telegram</a>!</sub>
+  <sub>Open to backend engineering opportunities and interesting .NET projects — reach me via <a href="mailto:mmdyousefi95@gmail.com">email</a> or <a href="https://t.me/mmd_u_a">Telegram</a>.</sub>
 </div>
