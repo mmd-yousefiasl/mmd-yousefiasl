@@ -7,6 +7,8 @@
 
 <div align="center">
 
+<b>English</b> | <a href="README.fa.md">فارسی</a>
+
 <a href="https://github.com/mmd-yousefiasl">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=640&height=50&lines=Backend+Developer+%E2%80%94+.NET+%26+ASP.NET+Core;Clean+Architecture+%C2%B7+Layered+Systems;REST+APIs+%C2%B7+EF+Core+%C2%B7+PostgreSQL;Designing+backends+that+stay+testable" alt="Backend Developer — .NET & ASP.NET Core · Clean Architecture · REST APIs · EF Core · PostgreSQL" />
 </a>
