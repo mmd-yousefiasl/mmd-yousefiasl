@@ -23,10 +23,12 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently building **Trendicator** — a Clean Architecture–based ASP.NET Core backend with layered separation (`Domain`, `Application`, `Data`, `IOC`, `Web`) and PostgreSQL persistence
-- 🏗️ Hands-on with **DTO patterns**, **dependency injection**, and isolating business logic from infrastructure
-- 🌱 Working with **.NET 10**, **Entity Framework Core**, and third-party API integration (TradingView)
-- 💬 Ask me about **Clean Architecture in .NET, EF Core with PostgreSQL, DTO design, or REST API structuring**
+- 🔭 Backend developer focused on **ASP.NET Core**, **C#**, and **REST API development**
+- 🏗️ I build layered .NET backends using **Clean Architecture** and clear separation between domain, application, data, and API concerns
+- 🧩 Hands-on with **DTOs**, **Dependency Injection / IoC**, **Entity Framework Core**, and relational databases
+- 🗄️ Working with **PostgreSQL** and **SQL Server**
+- 🔌 Experienced in integrating third-party APIs into backend systems
+- 💬 Ask me about **ASP.NET Core, Clean Architecture, DTO design, EF Core, PostgreSQL, or REST API structure**
 
 ---
 
@@ -37,37 +39,28 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET%2010-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 10" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="EF Core" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" alt="REST API" />
 </p>
 
-**Data & Architecture**
+**Architecture & Patterns**
 <p>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-2E7D32?style=for-the-badge" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/Layered%20Architecture-455A64?style=for-the-badge" alt="Layered Architecture" />
+  <img src="https://img.shields.io/badge/DTO%20Pattern-6A1B9A?style=for-the-badge" alt="DTO Pattern" />
+  <img src="https://img.shields.io/badge/Dependency%20Injection-EF6C00?style=for-the-badge" alt="Dependency Injection" />
+</p>
+
+**Data & Persistence**
+<p>
+  <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="EF Core" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-2E7D32?style=for-the-badge" alt="Clean Architecture" />
-  <img src="https://img.shields.io/badge/DTO%20Pattern-455A64?style=for-the-badge" alt="DTO Pattern" />
 </p>
 
-**DevOps & Tooling**
+**Tooling**
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
 </p>
-
----
-
-### 🧩 Featured Project: Trendicator
-
-> A trader-tools eCommerce backend built with ASP.NET Core on .NET 10, following Clean Architecture and using PostgreSQL.
-
-- **Layered solution**: `Domain` · `Application` · `Data` · `IOC` · `Web`
-- **Patterns in practice**: DTOs for data contracts, DI for service composition, separation of business rules from persistence
-- **External integration**: TradingView product flows
-- **Database**: PostgreSQL (migrated from the initial SQL Server setup)
-
-[Explore the repository →](https://github.com/mmd-yousefiasl/Trendicator)
 
 ---
 
